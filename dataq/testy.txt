@@ -1,0 +1,15 @@
+{"classification":"it"}
+{"classification":"ro"}
+{"classification":"so"}
+{"classification":"gr"}
+{"classification":"ko"}
+{"classification":"sp"}
+{"classification":"ta"}
+{"classification":"be"}
+{"classification":"fr"}
+{"classification":"pg"}
+{"classification":"cr"}
+{"classification":"in"}
+{"classification":"ja"}
+{"classification":"cz"}
+{"classification":"ge"}
