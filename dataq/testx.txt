@@ -1,0 +1,15 @@
+{"text":"la notte dei morti viventi"}
+{"text":"noaptea mortilor vii"}
+{"text":"habeenkii kuwa dhintay"}
+{"text":"nýchta ton zontanón nekrón"}
+{"text":"sal-aissneun jug-eun jaui bam"}
+{"text":"noche de los muertos vivientes"}
+{"text":"gabi ng buhay na patay"}
+{"text":"Jībita mr̥tadēra rātri"}
+{"text":"nuit des morts-vivants"}
+{"text":"noite dos Mortos-Vivos"}
+{"text":"noć živih mrtvaca"}
+{"text":"naeet of da living ded"}
+{"text":"Zonbi no yoru"}
+{"text":"noc oživlých mrtvých"}
+{"text":"Nacht der lebenden Toten"}
