@@ -1,0 +1,300 @@
+{"text":"maître de la maison"}
+{"text":"padrone di casa"}
+{"text":"Bāṛira māsṭāra"}
+{"text":"master ng bahay"}
+{"text":"dueño de la casa"}
+{"text":"Ie no shujin"}
+{"text":"jib ju-in"}
+{"text":"ghar ka maalik"}
+{"text":"Herr des Hauses"}
+{"text":"kýrios tou spitioú"}
+{"text":"macalinka guriga"}
+{"text":"mestre da casa"}
+{"text":"majitel domu"}
+{"text":"majstor kuće"}
+{"text":"stăpânul casei"}
+{"text":"regele castelului"}
+{"text":"kralj dvorca"}
+{"text":"král hradu"}
+{"text":"rei do castelo"}
+{"text":"boqor of qalcadda"}
+{"text":"vasiliás tou kástrou"}
+{"text":"König der Burg"}
+{"text":"mahal ke raaja"}
+{"text":"seong-ui wang"}
+{"text":"Shiro no ō"}
+{"text":"Rey del castillo"}
+{"text":"hari ng kastilyo"}
+{"text":"Kāsēlēra rājā"}
+{"text":"re del castello"}
+{"text":"roi du château"}
+{"text":"Besitzer des Ladens"}
+{"text":"dueño de la tienda"}
+{"text":"dono da loja"}
+{"text":"proprietarul magazinului"}
+{"text":"proprietario del negozio"}
+{"text":"Dōkānēra mālika"}
+{"text":"may-ari ng tindahan"}
+{"text":"propriétaire du magasin"}
+{"text":"Tenshu"}
+{"text":"dukaan ke maalik"}
+{"text":"gage ju-in"}
+{"text":"idioktítis tou katastímatos"}
+{"text":"milkiilaha dukaanka"}
+{"text":"vlasnik trgovine"}
+{"text":"majitel obchodu"}
+{"text":"Panginoon ng mga singsing"}
+{"text":"Riṁ ēra prabhu"}
+{"text":"árchontas ton dachtylidión"}
+{"text":"stapanul Inelelor"}
+{"text":"Gospodar prstenova"}
+{"text":"Pán prstenů"}
+{"text":"Senhor dos Anéis"}
+{"text":"oo ah Rabbiga kiisa subkan"}
+{"text":"Rōdo Obu za ringu"}
+{"text":"Herr der Ringe"}
+{"text":"angoothiyon ka maalik"}
+{"text":"banjiui jewang"}
+{"text":"le Seigneur des Anneaux"}
+{"text":"señor de los Anillos"}
+{"text":"Signore degli Anelli"}
+{"text":"Haus der Pfannkuchen"}
+{"text":"casa de clătite"}
+{"text":"guriga of canjeelada"}
+{"text":"kuća palačinki"}
+{"text":"maison de crêpes"}
+{"text":"bahay ng mga pancake"}
+{"text":"casa de panqueques"}
+{"text":"Pankēki no ie"}
+{"text":"spíti ton tiganión"}
+{"text":"casa das panquecas"}
+{"text":"dům palačinky"}
+{"text":"casa di pancake"}
+{"text":"Pyānakēkasa ghara"}
+{"text":"penakeks ka ghar"}
+{"text":"paenkeikeuui jib"}
+{"text":"apetta un minuto"}
+{"text":"pričekaj minutu"}
+{"text":"warte eine Minute"}
+{"text":"jamkkanman"}
+{"text":"maghintay ng isang minuto"}
+{"text":"sug daqiiqad"}
+{"text":"espera un minuto"}
+{"text":"așteptaţi un minut"}
+{"text":"Počkej chvíli"}
+{"text":"espere um minuto"}
+{"text":"ek minat rukie"}
+{"text":"Chottomatte"}
+{"text":"Ēkaṭi miniṭa apēkṣā karuna"}
+{"text":"attends une minute"}
+{"text":"perímene éna leptó"}
+{"text":"konec cesty"}
+{"text":"fine della strada"}
+{"text":"Michi no owari"}
+{"text":"Ende der Straße"}
+{"text":"fim da estrada"}
+{"text":"Rāstāra śēṣē"}
+{"text":"fin de la route"}
+{"text":"dulo ng daan"}
+{"text":"fin del camino"}
+{"text":"gil kkeut"}
+{"text":"télos tou drómou"}
+{"text":"kraj puta"}
+{"text":"sadak ke ant"}
+{"text":"dhammaadka wadada"}
+{"text":"Sfarsit de drum"}
+{"text":"chérir le jour"}
+{"text":"Goditi il ​​momento"}
+{"text":"Dina lālana"}
+{"text":"mahalin ang araw"}
+{"text":"apreciar el día"}
+{"text":"Sonohi o taisetsu ni suru"}
+{"text":"haluleul sojunghihada"}
+{"text":"din ka aanand lo"}
+{"text":"Schätze den Tag"}
+{"text":"agapás tin iméra"}
+{"text":"Maalinta qaali ahow"}
+{"text":"Aprecie o dia"}
+{"text":"Ctěte den"}
+{"text":"njegovati dan"}
+{"text":"Pretuiește ziua"}
+{"text":"Am nevoie de un loc de munca"}
+{"text":"trebam posao"}
+{"text":"potřebuji práci"}
+{"text":"eu preciso de um emprego"}
+{"text":"waxaan u baahanahay shaqo"}
+{"text":"chreiázomai douleiá"}
+{"text":"ich brauche einen Job"}
+{"text":"mujhe kaam chaahie"}
+{"text":"naneun jig-eob-i pil-yohae"}
+{"text":"Watashi wa shigoto o hitsuyō to shimasu"}
+{"text":"necesito un empleo"}
+{"text":"kailangan ko ng trabaho"}
+{"text":"Āmāra ēkaṭi cākari darakāra"}
+{"text":"ho bisogno di un lavoro"}
+{"text":"j'ai besoin d'un travail"}
+{"text":"palavra do dia"}
+{"text":"parola del giorno"}
+{"text":"Dinēra śabda"}
+{"text":"salita ng araw"}
+{"text":"palabra del DIA"}
+{"text":"Kyō no tango"}
+{"text":"oneul-ui dan-eo"}
+{"text":"aaj ka shabd"}
+{"text":"Wort des Tages"}
+{"text":"léxi tis iméras"}
+{"text":"ereyga maalinta"}
+{"text":"Slovo dne"}
+{"text":"riječ dana"}
+{"text":"cuvantul zilei"}
+{"text":"mot du jour"}
+{"text":"aller pour le vert"}
+{"text":"Sabuja jan'ya yāna"}
+{"text":"pumunta para sa berde"}
+{"text":"du-te pentru verde"}
+{"text":"vai per il verde"}
+{"text":"Midori no tame ni iku"}
+{"text":"idite na zeleno"}
+{"text":"Geh für das Grün"}
+{"text":"pigaínete gia to prásino"}
+{"text":"u tag cagaarka"}
+{"text":"jděte do zeleně"}
+{"text":"ve por el verde"}
+{"text":"vá para o verde"}
+{"text":"nogsaeg-eulo gada"}
+{"text":"hare rang ke lie jao"}
+{"text":"sufletul petrecerii"}
+{"text":"život stranke"}
+{"text":"život párty"}
+{"text":"a vida da festa"}
+{"text":"nolosha xisbiga"}
+{"text":"ti zoí tou kómmatos"}
+{"text":"Leben der Party"}
+{"text":"daavat kee raunak"}
+{"text":"patiui salm"}
+{"text":"Pāti no jinsei"}
+{"text":"alma de la fiesta"}
+{"text":"buhay ng partido"}
+{"text":"Pakṣēra jībana"}
+{"text":"vita della festa"}
+{"text":"la vie de la fête"}
+{"text":"parole da vivere"}
+{"text":"mots à vivre par"}
+{"text":"mga salitang inspirasyonal"}
+{"text":"saneun dan-eo"}
+{"text":"kathāra madhyē bēm̐cē thākā"}
+{"text":"palabras por las cuales vivir"}
+{"text":"ikiru kotoba"}
+{"text":"Worte nach denen man sich richten sollte"}
+{"text":"ereyada si ay ugu noolaadaan"}
+{"text":"shabdon se jeene ke lie"}
+{"text":"riječi koje žive"}
+{"text":"lógoi gia na zísoun"}
+{"text":"palavras para viver"}
+{"text":"slova, která mají žít"}
+{"text":"cuvinte după care să trăiești"}
+{"text":"messaggio di speranza"}
+{"text":"mensahe ng pag-asa"}
+{"text":"message d'espoir"}
+{"text":"huimang-ui mesiji"}
+{"text":"mensagem da esperança"}
+{"text":"Āśāra bārtā"}
+{"text":"mínyma elpídas"}
+{"text":"poruka nade"}
+{"text":"aasha ka sandesh"}
+{"text":"mensaje de esperanza"}
+{"text":"kibō no messēji"}
+{"text":"Botschaft der Hoffnung"}
+{"text":"poselství naděje"}
+{"text":"mesaj de speranță"}
+{"text":"farriinta rajada"}
+{"text":"dur au travail"}
+{"text":"karmakṣētrē hārḍa"}
+{"text":"duro en el trabajo"}
+{"text":"Shigoto de tsurai"}
+{"text":"duro a lavoro"}
+{"text":"mahirap sa trabaho"}
+{"text":"dýskola sti douleiá"}
+{"text":"těžko v práci"}
+{"text":"shaqada adag"}
+{"text":"greu la muncă"}
+{"text":"hart bei der Arbeit"}
+{"text":"jigjang-eseo yeolsimhi"}
+{"text":"kaam mein mushkil"}
+{"text":"dedicado no trabalho"}
+{"text":"teško na poslu"}
+{"text":"Yoru no mishiranu hito"}
+{"text":"cizinci v noci"}
+{"text":"shisheeyaha habeenkii"}
+{"text":"bam-e nachseon salamdeul"}
+{"text":"Străini în noapte"}
+{"text":"stranieri nella notte"}
+{"text":"mga estranghero sa gabi"}
+{"text":"raat mein ajanabiyon"}
+{"text":"Fremde in der Nacht"}
+{"text":"Estranhos na noite"}
+{"text":"stranci u noći"}
+{"text":"Etrangers dans la nuit"}
+{"text":"Rātēra āgantuka"}
+{"text":"xénous ti nýchta"}
+{"text":"extraños en la noche"}
+{"text":"Le silence des agneaux"}
+{"text":"Lambs nīrabatāra"}
+{"text":"katahimikan ng mga tupa"}
+{"text":"mlčení jehňátek"}
+{"text":"Schweigen der Lämmer"}
+{"text":"silêncio dos Inocentes"}
+{"text":"il silenzio degli innocenti"}
+{"text":"silencio de los inocentes"}
+{"text":"Hitsujitachinochinmoku"}
+{"text":"yangdeul-ui chimmug"}
+{"text":"bhedon kee khaamoshee"}
+{"text":"siopí ton amnón"}
+{"text":"aamusnaanta wanaajinta"}
+{"text":"Kad jaganjci utihnu"}
+{"text":"tăcerea mieilor"}
+{"text":"giorno di Wreckoning"}
+{"text":"Ōẏēbhēnakiṁ ēra dina"}
+{"text":"araw ng wreckoning"}
+{"text":"día de naufragio"}
+{"text":"Wreckoning no hi"}
+{"text":"nanpaui nal"}
+{"text":"Tag des Wracks"}
+{"text":"iméra katastrofís"}
+{"text":"Maalinta qulqulka"}
+{"text":"dia de naufrágio"}
+{"text":"dan uklanjanja"}
+{"text":"ziua rătăcirii"}
+{"text":"jour de l'épave"}
+{"text":"den ztroskotání"}
+{"text":"din ke dhahane ka din"}
+{"text":"mirara madhyē mānuṣa"}
+{"text":"El hombre en el espejo"}
+{"text":"Mann im Spiegel"}
+{"text":"čovjek u ogledalu"}
+{"text":"uomo allo specchio"}
+{"text":"homme dans le miroir"}
+{"text":"lalaki sa Salamin"}
+{"text":"geoul sog-ui namja"}
+{"text":"aaeene mein aadamee"}
+{"text":"homem no espelho"}
+{"text":"muž v zrcadle"}
+{"text":"om în oglindă"}
+{"text":"ánthropos ston kathréfti"}
+{"text":"kagami no naka no otoko"}
+{"text":"nin muraayad ah"}
+{"text":"Povratak u budućnost"}
+{"text":"bumalik sa hinaharap"}
+{"text":"vaapas bhavishy mein"}
+{"text":"de volta para o Futuro"}
+{"text":"milaelo gwihwan"}
+{"text":"ritorno al futuro"}
+{"text":"regreso al futuro"}
+{"text":"Bakku to~u za fu~yūchā"}
+{"text":"Epistrofí sto méllon"}
+{"text":"mustaqbalka"}
+{"text":"zpět do budoucnosti"}
+{"text":"inapoi in viitor"}
+{"text":"retour vers le futur"}
+{"text":"bhabiṣyatē phirē"}
+{"text":"Zurück in die Zukunft"}
